@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GIT 😄
 
 <!--
 **3exesh/3exesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
